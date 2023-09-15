@@ -3,6 +3,8 @@ A game of blackjack built on 16-bit Turbo Assembler x86 and ran on DOSBox. In co
 
 **BJACK.exe is already compiled and ready to run on DOSBox.**
 
+![](https://github.com/snowhamsters/TASM/blob/main/blackjack.gif)
+
 ### Files
 
 bjack.asm is the main file
